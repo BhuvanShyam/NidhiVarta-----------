@@ -78,4 +78,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For inquiries, feel free to reach out:
 
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
+- **Bhuvan Shyam**: [Email](bhuvanshyam2022@gamil.com)
